@@ -33,14 +33,18 @@ figcaption {
    
 }
 
-.lion{
-    background-color: rgba(0, 0, 0, 0.466);
-}
-
 section h1{
     text-align: center;
-    padding: 15px; 
+    padding: 10px; 
     border: solid;
-margin-top: 15px;
+    margin-bottom: 6em;
+    
 }
+
+.imgcol{
+    width: 100%;
+    height: 50%;
+
+}
+
 
